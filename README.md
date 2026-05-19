@@ -1,0 +1,1 @@
+# SegFly-A-2D-3D-2D-Paradigm-for-Aerial-RGB-Thermal-Semantic-Segmentation-at-Scale
